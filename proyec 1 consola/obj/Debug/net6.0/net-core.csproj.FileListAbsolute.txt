@@ -1,0 +1,15 @@
+/home/cristian18u/Documentos/net-core/bin/Debug/net6.0/net-core
+/home/cristian18u/Documentos/net-core/bin/Debug/net6.0/net-core.deps.json
+/home/cristian18u/Documentos/net-core/bin/Debug/net6.0/net-core.runtimeconfig.json
+/home/cristian18u/Documentos/net-core/bin/Debug/net6.0/net-core.dll
+/home/cristian18u/Documentos/net-core/bin/Debug/net6.0/ref/net-core.dll
+/home/cristian18u/Documentos/net-core/bin/Debug/net6.0/net-core.pdb
+/home/cristian18u/Documentos/net-core/obj/Debug/net6.0/net-core.csproj.AssemblyReference.cache
+/home/cristian18u/Documentos/net-core/obj/Debug/net6.0/net-core.GeneratedMSBuildEditorConfig.editorconfig
+/home/cristian18u/Documentos/net-core/obj/Debug/net6.0/net-core.AssemblyInfoInputs.cache
+/home/cristian18u/Documentos/net-core/obj/Debug/net6.0/net-core.AssemblyInfo.cs
+/home/cristian18u/Documentos/net-core/obj/Debug/net6.0/net-core.csproj.CoreCompileInputs.cache
+/home/cristian18u/Documentos/net-core/obj/Debug/net6.0/net-core.dll
+/home/cristian18u/Documentos/net-core/obj/Debug/net6.0/ref/net-core.dll
+/home/cristian18u/Documentos/net-core/obj/Debug/net6.0/net-core.pdb
+/home/cristian18u/Documentos/net-core/obj/Debug/net6.0/net-core.genruntimeconfig.cache
